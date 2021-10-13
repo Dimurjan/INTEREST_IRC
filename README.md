@@ -1,2 +1,2 @@
 # INTEREST_IRC
-Testing repository for the proposed IRC project
+This is a testing repository for the proposed IRC project.
